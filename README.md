@@ -1,3 +1,5 @@
+EQUIPO 16 - VASQUEZ ARAGON ROBERTO CARLOS COMPONENTE, VARGAS GOMEZ ALAN - CAPTCHA DE VERIFICACION
+
 Descripción General del Proyecto
 
 Este proyecto es un sistema CAPTCHA hecho en Java que usa una serie de ventanas (JFrame) para desafiar al usuario con diferentes pruebas visuales. El objetivo es asegurar que el usuario es un humano y no un robot. Cada prueba pide al usuario seleccionar imágenes que cumplen con una categoría específica, como “motos” o “semáforos”. Si el usuario acierta, se le permite pasar; si no, debe intentarlo de nuevo.
