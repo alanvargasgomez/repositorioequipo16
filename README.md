@@ -1,4 +1,4 @@
-EQUIPO 16 - VASQUEZ ARAGON ROBERTO CARLOS, VARGAS GOMEZ ALAN - CAPTCHA DE VERIFICACION
+EQUIPO 16 - VASQUEZ ARAGON ROBERTO CARLOS Y VARGAS GOMEZ ALAN - CAPTCHA DE VERIFICACION POR IMAGENES
 
 - Descarga del Proyecto: Primero, baja el archivo comprimido en formato ZIP desde el repositorio.
 
@@ -208,7 +208,11 @@ private void btnCambiar4ActionPerformed(java.awt.event.ActionEvent evt) {
 VIDEO DEL FUNCIONAMIENTO
 
 
-https://github.com/user-attachments/assets/100dd021-0af7-4537-b76e-4fad7a75409b
+
+https://github.com/user-attachments/assets/fd5014d8-c1c2-4ee2-b42d-f6fc3408b302
+
+
+
 
 
 
